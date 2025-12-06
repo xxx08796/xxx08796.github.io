@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hanyang Yuan"
-description              : "Ph.D. student at Zhejiang University. Research focus: LLM/MLLM and data mining."
+title                    : "Hanyang Yuan's Homepage"
+description              : "Ph.D. student at Zhejiang University. Research focus: LLM/MLM and data mining."
 repository               : "xxx08796/xxx08796.github.io"
 google_scholar_stats_use_cdn : true
 
