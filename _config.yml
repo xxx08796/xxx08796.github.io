@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Hanyang Yuan"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "xxx08796/xxx08796.github.io"
+description              : "Ph.D. student at Zhejiang University. Research focus: LLM/MLLM, recomender sys and data mining. "
+repository               : "xxx08796/yuanhanyang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,8 +27,8 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=8jifRbkAAAAJ"
+  email            : "yuanhanyang@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
