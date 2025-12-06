@@ -56,11 +56,11 @@ I have published more than 100 papers at the top international AI conferences wi
 - [Neural Graph Navigation for Intelligent Subgraph Matching](https://arxiv.org/abs/2511.17939), Yuchen Ying, Yiyang Dai, Wenda Li, Wenjie Huang, Rui Wang, Tongya Zheng, Yu Wang, **Hanyang Yuan**, Mingli Song, **AAAI 2026 Oral**
 - [Tree of Preferences for Diversified Recommendation](https://neurips.cc/virtual/2025/loc/san-diego/poster/118613), **Hanyang Yuan**, Ning Tang, Tongya Zheng, Jiarong Xu, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei
 Chen, Mingli Song, **NeurIPS 2025**
-- Towards Enhanced Image Generation Via Multi-modal Chain of Thought in Unified Generative Models, Yi Wang, Mushui Liu, Wanggui He, **Hanyang Yuan**<sup>*</sup>, Longxiang Zhang, Ziwei Huang, Guanghao Zhang, Wenkai Fang, Haoze Jiang, Shengxuming Zhang, Dong She, Jinlong Liu, Weilong Dai, Mingli Song, Hao Jiang, Jie Song, **ICLR 2026 submission** (*: equal controbution)
+- Towards Enhanced Image Generation Via Multi-modal Chain of Thought in Unified Generative Models, Yi Wang, Mushui Liu, Wanggui He, **Hanyang Yuan$^*$**, Longxiang Zhang, Ziwei Huang, Guanghao Zhang, Wenkai Fang, Haoze Jiang, Shengxuming Zhang, Dong She, Jinlong Liu, Weilong Dai, Mingli Song, Hao Jiang, Jie Song, **ICLR 2026 submission** ($^*$: equal controbution)
 - [Can Graph Neural Networks Expose Training Data Properties?](https://proceedings.neurips.cc/paper_files/paper/2024/hash/806288e682d8a38c0bf21e37ab38af0a-Abstract-Conference.html), **Hanyang Yuan**, Jiarong Xu, Renhong Huang, Mingli Song, Chunping Wang, and Yang Yang, **NeurIPS 2024**
 - [Extracting Training Data from Molecular Pre-trained Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b17e1642998a8214be240b3056f5faa5-Abstract-Conference.html), Renhong Huang, Jiarong Xu, Zhiming Yang, Xiang Si, Xin Jiang, **Hanyang Yuan**, Chunping Wang, and Yang Yang, **NeurIPS 2024**
 - [Unveiling Privacy Vulnerabilities: Investigating the Role of Structure in Graph Data](https://dl.acm.org/doi/abs/10.1145/3637528.3672013), **Hanyang Yuan**, Jiarong Xu, Cong Wang, Ziqi Yang, Chunping Wang, Keting Yin, Yang Yang, **KDD 2024 Oral**
-- [Unsupervised Distance Metric Learning for Anomaly Detection Over Multivariate Time Series](https://arxiv.org/abs/2403.01895), Renhong Huang, Jiarong Xu, Zhiming Yang, Xiang Si, Xin Jiang, **Hanyang Yuan**, Qinglin Cai, Keting Yin, **arXiv preprint**
+- [Unsupervised Distance Metric Learning for Anomaly Detection Over Multivariate Time Series](https://arxiv.org/abs/2403.01895), **Hanyang Yuan**, Qinglin Cai, Keting Yin, **arXiv preprint**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
