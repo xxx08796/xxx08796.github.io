@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Ph.D. student in the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. Mingli Song and Prof. Yang Yang. Beyond these two distinguished advisors, I am fortunate to collaborate with several excellent researchers, such as Jiarong Xu, Shunyu Liu, and Tongya Zheng. Prior to beginning my doctoral studies, I received a Bachelor’s degree in Artificial Intelligence from the University of Science and Technology Beijing and a dual Bachelor’s degree in Economics from Peking University.
+I am a Ph.D. student in the [College of Computer Science and Technology](https://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Prof. [Mingli Song](https://person.zju.edu.cn/msong) and Prof. [Yang Yang](http://yangy.org/). Beyond these two distinguished advisors, I am fortunate to collaborate with several excellent researchers, such as [Jiarong Xu](https://galina0217.github.io/), [Shunyu Liu](https://liushunyu.github.io/), and [Tongya Zheng]([https://example.com](https://doujiang-zheng.github.io/)). Prior to beginning my doctoral studies, I received a Bachelor’s degree in Artificial Intelligence from [University of Science and Technology Beijing](https://en.ustb.edu.cn/) and a [dual Bachelor’s degree](https://nsd.pku.edu.cn/jxxm/bks/zsxx/sxwxwzs/265105.htm) in Economics from [Peking University](https://english.pku.edu.cn/).
 
-In the early stage of my research, I mainly focused on data mining, including time‑series data and graph data. For example, in collaboration with Finvolution, we explored several privacy issues in graph data and graph neural networks, which can provide insights into data security and model security in the financial domain.
+In the early stage of my research, I mainly focused on data mining, including time‑series data and graph data. For example, in collaboration with [Finvolution](https://en.finvgroup.com/), we explored several privacy issues in graph data and graph neural networks, which can provide insights into data security and model security in the financial domain.
 
-More recently, my work centers on developing training techniques for LLMs/MLMs and leveraging them in practical recommender and advertising system applications. For example, in collaboration with Alibaba, we proposed a unified multimodal large model, Fox, which excels in complex compositional text-to-image generation and can be used for AIGC product poster creation in advertising scenarios. As a side project, I am also working on agentic capabilities for coding. 
+More recently, my work centers on developing training techniques for LLMs/MLMs and leveraging them in practical recommender and advertising system applications. For example, in collaboration with [Alibaba](https://www.alibabagroup.com/), we proposed a unified multimodal large model, Fox, which excels in complex compositional text-to-image generation and can be used for AIGC product poster creation in advertising scenarios. As a side project, I am also working on agentic capabilities for coding. 
 
-I am genuinely excited about future opportunities, especially those that offer meaningful research potential. I expect to graduate in June 2026, and I welcome any discussions about potential roles. If you are interested in my work or know of any suitable **job openings** or post‑doctoral positions, please do not hesitate to contact me.
+I am genuinely excited about future opportunities, especially those that offer meaningful research potential. I expect to graduate in **June 2026**, and I welcome any discussions about potential roles. **If you are interested in my work or know of any suitable job openings or post‑doctoral positions, please do not hesitate to contact me.**
 
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -62,9 +62,10 @@ Chen, Mingli Song, **NeurIPS 2025**
 - [Unveiling Privacy Vulnerabilities: Investigating the Role of Structure in Graph Data](https://dl.acm.org/doi/abs/10.1145/3637528.3672013), **Hanyang Yuan**, Jiarong Xu, Cong Wang, Ziqi Yang, Chunping Wang, Keting Yin, Yang Yang, **KDD 2024 Oral**
 - [Unsupervised Distance Metric Learning for Anomaly Detection Over Multivariate Time Series](https://arxiv.org/abs/2403.01895), **Hanyang Yuan**, Qinglin Cai, Keting Yin, **arXiv preprint**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Honors and Awards
+- *2021.06* Outstanding Graduates of University of Science and Technology Beijing.
+- *2019.04* Second Prize, [Standard Platform League](http://en.wikipedia.org/wiki/RoboCup_Standard_Platform_League), RoboCup China Open.
+- *2018.10* Second Prize, National Mathematics Competition for College Students.
 
 # 📖 Educations
 - *2021.09 - 2026.06 (expected)*, Ph.D. in Computer Science and Technology, Zhejiang University, Hangzhou.
